@@ -24,3 +24,4 @@ All data is mock data, generated locally to simulate realistic AI insights.
 npm install
 npm run dev
 ```
+Note: Repository update tested through AgentDock mobile workflow.
